@@ -99,7 +99,7 @@ This EULA shall be deemed to be construed under the jurisdiction of the courts l
 
 To control inappropriate content in this platform, we have a “block” feature for users to remove a user’s notes from visibility, and a “report” feature for requesting moderation to remove inappropriate notes.
 The Block feature is accessed by tapping on the menu in the right corner of chat.
-An inappropriate post could be reported at our [website](https://khalidwasim287.wixsite.com/securechatplus). 
+An inappropriate post could be reported at our [website](https://binmustafa1973.wixsite.com/gochat-pro). 
 We recognise inappropriate/objectionable content, including but not limited to as
  - advocation or promotion of violence, 
  - abuse, 
